@@ -1,0 +1,6 @@
+{
+  "name": "NumFlow Calculator",
+  "description": "A sleek and precise calculator featuring full basic arithmetic, expression evaluation, interactive calculation history, memory functions, and keyboard shortcuts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
